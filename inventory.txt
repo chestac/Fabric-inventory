@@ -1,0 +1,6 @@
+Name,Color,Quantity,Unit,Price per Unit
+Silk,blue,51.2,yards,15.0
+Cotton,blue,4.0,yards,3.0
+Saco,GREEN,70.0,yards,9.0
+Saco,PURPLE,15.0,yards,9.0
+Halloween Cotton,orange,40.0,yards,9.0

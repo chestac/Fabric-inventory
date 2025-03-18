@@ -1,0 +1,5 @@
+Cotton,3.0
+Silk,15.0
+Saco,9.0
+Holiday Cotton,9.0
+Halloween Cotton,9.0
